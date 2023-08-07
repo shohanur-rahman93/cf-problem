@@ -1,0 +1,1 @@
+{"name":"Local: math","url":"c:\\c++\\math.cpp","tests":[{"id":1669426157274,"input":"3+2+1","output":"1+2+3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\c++\\math.cpp","group":"local","local":true}
